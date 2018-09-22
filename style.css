@@ -34,7 +34,9 @@ hr {
   border-width: 3px;
   border-color: #c08e54; 
 }
-
+form {
+  text-align:center;
+}
 
 .btn {
   text-transform: uppercase;
